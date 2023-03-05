@@ -1,0 +1,23 @@
+{
+  "name": "a02-functions-kimcha-0",
+  "version": "1.0.0",
+  "description": "Creating your own node command line package",
+  "main": "galosh.js",
+  "scripts": {
+    "test": "node cli.js -n 35.92 -w 79.05 -z America/New_York"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/comp426-2023-spring/a02-functions-kimcha-0.git"
+  },
+  "author": "kimcha-0",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/comp426-2023-spring/a02-functions-kimcha-0/issues"
+  },
+  "homepage": "https://github.com/comp426-2023-spring/a02-functions-kimcha-0#readme",
+  "bin": {
+    "galosh.js": "./cli.js"
+  },
+  "type": "module"
+}
